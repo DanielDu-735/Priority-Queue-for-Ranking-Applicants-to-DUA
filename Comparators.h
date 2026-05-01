@@ -54,7 +54,7 @@ std::vector<Applicant> create_animal_pool() {
     return {
         {"Duke D.0236",   "Dog",      66.3,  6.4,    36.4},
         {"Binx C.0347",   "Cat",      30.2,  4.5,    36.8},
-        {"R.0622",        "Rabbit",   30.2,  4.1,    53.9},
+        {"Cinnamon R.0622",        "Rabbit",   30.2,  4.1,    53.9},
         {"Cosmo C.0328",  "Cat",      37.8,  3.5,    35.6},
         {"Oliver C.0437", "Cat",      43.3,  6.4,    45.4},
         {"Nutmeg R.0636", "Rabbit",   34.0,  3.7,    23.8},
@@ -70,7 +70,7 @@ std::vector<Applicant> create_animal_pool() {
         {"Clover R.0624", "Rabbit",   38.1,  1.1,    45.0},
         {"Atlas E.0973",  "Elephant", 258.2, 4893.6, 8.7 },
         {"Jasper C.0442", "Cat",      42.0,  4.7,    43.9},
-        {"R.0497",        "Rabbit",   32.2,  3.0,    50.6},
+        {"Cinnamon R.0497",        "Rabbit",   32.2,  3.0,    50.6},
         {"Binky R.0566",  "Rabbit",   35.6,  2.1,    50.7},
     };
 }
